@@ -1,0 +1,26 @@
+0.9 25apr2016
+* remove dependency on wx_binding
+
+0.8 31oct2015
+* fix true/false configuration bug
+
+0.7 14oct2015
+* update readme with weewx 3.x instructions
+
+0.6 24jul2015
+* obfuscate site token in logs
+
+0.5 23mar2015
+* fail hard if unit system is not known
+
+0.4 30jan2015
+* added augment_record option
+
+0.3 06dec2014
+* update to weewx v3
+
+0.2 13mar2014
+* fixed key error when driver returns subset of weather data
+
+0.1 01feb2014
+* initial release as packaged weewx extension
